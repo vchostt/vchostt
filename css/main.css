@@ -16,11 +16,23 @@ margin: 0 auto;
 width: 980px;
 position: relative;
 }
+.seletor {
+    font-family: 'Dancing Script', cursiva;
+}
+h4 {
+    font-family: 'Dancing Script', cursiva;
+}
+
 .logo {
  float: left;
  padding: 11px;
- width: 70%;
+ width: 30%;
 }
+.logo2 {
+    float: left;
+    padding: 20px;
+    width: 30%;
+   }
 .redes-sociais ul li {
 margin-left: 25px;
 display: inline-block;
@@ -28,7 +40,7 @@ float: left;
 list-style: none;
 }
 .redes-sociais {
-width: 25%;
+width: 29%;
 float: right;
 }
 .header-2 {
@@ -47,7 +59,7 @@ border-bottom: 3px solid #efefef;
     display: inline-block;
     color: #000000;
     
-    margin-left: 15px;
+    margin-left: 25px;
     height: 38px;
 }
 
@@ -64,6 +76,7 @@ border-bottom: 3px solid #efefef;
     color: #000000;
     text-decoration: none;
     font-size: 22px;
+    
     text-transform: full-width;
     
 }
@@ -92,6 +105,7 @@ float: left;
     float: left;
     position: relative;
 }
+
 .contato {
     text-align: center;
     background-color: #eeeeee;
@@ -140,8 +154,8 @@ button.slick-next {
     margin: 0 auto;
     width: 50%;
     position: absolute;
-    left: 50%;
-    top: 600px;
+    left: 48%;
+    top: 900px;
 }
 
 li.slick-active button {
@@ -160,7 +174,13 @@ li.slick-active button {
     color: #000000;
 }
 .texto-destaque h1 
+h4 {
+    font-weight: normal!important;
+    font-size: 15px;
+    padding-left: 20px;
+    color: #9a9a9a;
 
+}
 h3 {
     font-weight: normal!important;
 
@@ -176,6 +196,14 @@ h3 {
     padding-left: 15px;
     padding-right: 15px; 
     width: 29%;
+    float: left;
+    position: relative;
+}
+.col-9 {
+    text-align: center;
+    padding-left: 15px;
+    padding-right: 15px; 
+    width: 100%;
     float: left;
     position: relative;
 }
@@ -204,6 +232,9 @@ h3 {
     text-align: left;
 }
 .bloco-texto {
+    margin-top: 3em;
+}
+.bloco-contato {
     margin-top: 3em;
 }
 
@@ -238,9 +269,10 @@ h3 {
 }
 .col-4 {
     float: left;
-    width: 50%;
+    width: 100%;
     text-align: center;
 }
+
 .col-4 img {
 cursor: pointer;
  margin: 5 auto;
@@ -268,6 +300,7 @@ cursor: pointer;
 .footer {
     background-image: url('../img/footer.png');
     color: #ffffff;
+    height: 390px;
 }
 
 .footer-2 {
@@ -278,14 +311,14 @@ cursor: pointer;
 
 
 .footer p {
-    width: 90%;
+    width: 100%;
     text-align: left;
 }
 
 .footer-2 p {
     padding: 0px;
     text-align: center;
-    padding-left: 10px;
+    padding-left: 40px;
     padding-right: 40px; 
     
     height: 5px;
@@ -309,9 +342,9 @@ cursor: pointer;
 .local:before, .emailico:before, .telefoneico:before {
     content: '';
     width:  17px;
-    height: 24px;
+    height: 12px;
     display: inline-block;
-    float: left;
+    float: center;
     background-repeat: no-repeat;
     padding-left: 5px;
 }
