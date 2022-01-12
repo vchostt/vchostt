@@ -88,6 +88,7 @@ float: left;
 
 
 }
+
 .busca {
     text-align: center;
     width: 40%;
@@ -304,7 +305,8 @@ cursor: pointer;
 .footer {
     background-image: url('../img/footer.png');
     color: #ffffff;
-    height: 390px;
+    border-bottom: 3px 
+ 
 }
 
 .footer-2 {
