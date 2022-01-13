@@ -2,11 +2,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vchostt&color=red" alt="Profile views" /> </p>
 
-- 🔥 I'm a development student focused on the front end, and a future computer engineer. Software Engineer I Front-End Developer I Web Developer
+- 🔥 I'm a development student focused on the front end, and a future computer engineer. Computer Engineer I Front-End Developer I Web Developer
 
-- 👨‍💻 future computer engineer
+- 👨‍💻 Future computer engineer
 
-- ⚡ student in love with technology, constantly evolving
+- ⚡ Student in love with technology, constantly evolving
 
 ## 👨🏽‍🦲 &nbsp;Social Links
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/vchostt/)
